@@ -1,1 +1,1 @@
-A simple quiz using HTML, CSS, and JavaScript
+A simple quiz about me using HTML, CSS, and JavaScript
